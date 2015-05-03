@@ -1,0 +1,19 @@
+{
+  "name": "jeboehm/uhcx-php-lib",
+  "description": "PHP library for the uh.cx link shortener.",
+  "require": {
+    "kriswallsmith/buzz": "0.13"
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "uh.cx",
+      "email": "jeff@uh.cx"
+    }
+  ],
+  "autoload": {
+    "psr-0": {
+      "": "src/"
+    }
+  }
+}
