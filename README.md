@@ -5,7 +5,9 @@ This provides a library for the uh.cx link shortening service.
 ## Installation
 
 Via composer:
-```composer require jeboehm/uhcx-php-lib 0.1```
+``` shell
+composer require jeboehm/uhcx-php-lib dev-master
+```
 
 ## Usage
 
