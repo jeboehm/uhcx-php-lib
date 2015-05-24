@@ -2,6 +2,8 @@
 
 This provides a library for the uh.cx link shortening service.
 
+[![Build Status](https://travis-ci.org/jeboehm/uhcx-php-lib.svg?branch=master)](https://travis-ci.org/jeboehm/uhcx-php-lib)
+
 ## Installation
 
 Via composer:
